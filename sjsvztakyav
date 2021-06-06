@@ -1,0 +1,66 @@
+
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IptvB" tvg-logo=" data:image/png;base64,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 " group-title="IptvB",IptvB
+https://youtu.be/n5WnMJ0J6qA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN Islamic" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/f/f9/%E0%A6%8F%E0%A6%9F%E0%A6%BF%E0%A6%8F%E0%A6%A8_%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="Bangla",ATN Islamic
+http://iptvbd.jagobd.com:1931/boishakhi/atnislamictv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Madani Tv Bangla" tvg-logo="https://www.clipartmax.com/png/middle/263-2636352_keep-watching-madani-channel-madani-channel-logo-png.png " group-title="Bangla",Madani Tv Bangla 
+https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dbc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png " group-title="Bangla",Dbc News
+http://iptvbd.jagobd.com:1931/boishakhi/dbcnews.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png " group-title="Bangla",News 24
+http://iptvbd.jagobd.com:1931/boishakhi/news24local.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png " group-title="Bangla",Independent
+http://iptvbd.jagobd.com:1931/boishakhi/independent-8-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/500px-JamunaTV_logo.jpg " group-title="Bangla",Jamuna Tv
+http://iptvbd.jagobd.com:1931/boishakhi/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png " group-title="Bangla",Somoy
+http://iptvbd.jagobd.com:1931/boishakhi/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png " group-title="Bangla",channel 24
+http://iptvbd.jagobd.com:1931/boishakhi/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png " group-title="Bangla",Channel 9
+http://iptvbd.jagobd.com:1931/boishakhi/channel9hd.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png " group-title="Bangla",Sa Tv
+http://iptvbd.jagobd.com:1931/boishakhi/satvoff5666.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel i" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png " group-title="Bangla",Channel i
+http://iptvbd.jagobd.com:1931/boishakhi/channeli-8-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF " group-title="Bangla",ATN News
+http://iptvbd.jagobd.com:1931/boishakhi/atnws-sg.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Banglavision" tvg-logo="https://apkplz.net/storage/images/net/gurujibd/banglavision/net.gurujibd.banglavision_1.png " group-title="Bangla",Banglavision
+http://iptvbd.jagobd.com:1931/boishakhi/banglav000.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ananda tv" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/4/43/%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg/280px-%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg " group-title="Bangla",Ananda tv
+http://iptvbd.jagobd.com:1931/boishakhi/anandatv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png " group-title="Bangla",ATN bangla
+http://iptvbd.jagobd.com:1931/boishakhi/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boishakhitv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png " group-title="Bangla",Boishakhi tv
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mytv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png " group-title="Bangla",My tv
+http://iptvbd.jagobd.com:1931/boishakhi/mytv-up-off.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masranga tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg " group-title="Bangla",Masranga tv
+http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Bangla",Rtv
+http://iptvbd.jagobd.com:1931/boishakhi/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mohona tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mohona_Logo.JPG/230px-Mohona_Logo.JPG " group-title="Bangla",Mohona tv
+http://iptvbd.jagobd.com:1931/boishakhi/mohonatv00000223232244556633.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sanshad tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg " group-title="Bangla",Sanshad tv
+http://iptvbd.jagobd.com:1931/boishakhi/songsodtv-world.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png " group-title="Bangla",Bijoy tv
+http://iptvbd.jagobd.com:1931/boishakhi/bijoy00.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Bangla_Tv_Logo.jpg " group-title="Bangla",Bangla tv
+http://iptvbd.jagobd.com:1931/boishakhi/banglatvhd.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boishakhi tv plus" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/12/boishakhitvplus.jpeg " group-title="Bangla",Boishakhi tv plus
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhiplus.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Btv tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Bangladesh_Television_logo.png/revision/latest?cb=20210409072736 " group-title="Bangla",Btv 
+http://iptvbd.jagobd.com:1931/boishakhi/btvnational-ctg.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="71bangla hd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png " group-title="Bangla",71bangla hd
+http://iptvbd.jagobd.com:1931/boishakhi/71bangla.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Janmovumi" tvg-logo=" " group-title="Bangla",Janmovumi
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekushe tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg " group-title="Bangla",Ekushe tv
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khusbo tv" tvg-logo="https://1.bp.blogspot.com/-5tGF6dQFsdM/X5rlfx1rudI/AAAAAAAABjM/YoV7bum8Xt4LIZau1c6faScovgIfTkkhgCLcBGAsYHQ/w800/images%2B%25281%2529.jpeg " group-title="Bangla",Khusbo tv
+https://d2my7pmu7z3zc5.cloudfront.net/KHUSBOO_TV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ktv" tvg-logo="https://upload.wikimedia.org/wikipedia/ta/f/f4/%E0%AE%95%E0%AF%87_%E0%AE%A4%E0%AF%8A%E0%AE%B2%E0%AF%88%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9A%E0%AE%BF.gif " group-title="Bangla",Ktv
+https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="itv" tvg-logo="https://play-lh.googleusercontent.com/Y0nwwjoRJ9yTw_tpvw2Hqa2Im8KW0qCWb0b5tR87-_42bo2XMQ9ngIDGZuTP66exCA " group-title="Bangla",itv
+http://162.244.81.142:1935/live/livestream/playlist.m3u8
